@@ -7,3 +7,4 @@ By Paul McQuade
 :pagenums:
 
 include::../LICENSE.asc[]
+include::book/Section1/Substitution-ciphers.asc[]
